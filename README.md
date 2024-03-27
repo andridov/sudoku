@@ -1,2 +1,6 @@
 # sudoku
-Simple sudoku solver
+Simple sudoku solver on python.
+
+# license
+MIT
+
